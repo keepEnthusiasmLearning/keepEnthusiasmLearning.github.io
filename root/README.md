@@ -18,9 +18,9 @@
 
 ## 技能清单
 
-- Vue - [跳转至资料整理](https://sound934825125.github.io/)
-- [vuetify](https://sound934825125.github.io/)
-- [javascript、typescript](https://sound934825125.github.io/)
-- [git、github](https://sound934825125.github.io/)
-- [css、sass、scss](https://sound934825125.github.io/)
-- [PS、PR、AI、AE](https://sound934825125.github.io/)
+- [Vue 笔记](https://sound934825125.github.io/)
+- [vuetify 笔记](https://sound934825125.github.io/)
+- [javascript、typescript 笔记](https://sound934825125.github.io/)
+- [git、github 笔记](https://sound934825125.github.io/)
+- [css、sass、scss 笔记](https://sound934825125.github.io/)
+- [PS、PR、AI、AE 笔记](https://sound934825125.github.io/)
